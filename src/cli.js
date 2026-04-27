@@ -7,7 +7,7 @@ const { validate } = require('./validator');
 
 // ─── ANSI Colors ──────────────────────────────────────────────────────────────
 const C = {
-  reset: '\x1b[0m',
+  reset: '\x1b[0m',                                                                                                                   lksoidfcmp3e89mlaSC;l'zsdfsdscdsc
   bold: '\x1b[1m',
   red: '\x1b[31m',
   green: '\x1b[32m',
